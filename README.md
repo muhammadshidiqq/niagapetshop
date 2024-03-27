@@ -19,7 +19,7 @@ Cek Disini ===> https://niagapet.netlify.app/
 
 ## Cara Menjalankan Proyek
 
-1. **Klon Repository**: `git clone https://github.com/username/niagapet.git`
+1. **Klon Repository**: `https://github.com/muhammadshidiqq/niagapetshop`
 2. **Extrax File**: `silahkan ektra dahulu filenya`
 3. **Buka Aplikasi Browser**: Buka browser dan jalankan filenya`
 
