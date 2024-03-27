@@ -22,11 +22,11 @@ Cek Disini ===> https://niagapet.netlify.app/
 1. **Klon Repository**: `git clone https://github.com/username/niagapet.git`
 2. **Extrax File**: `silahkan ektra dahulu filenya`
 3. **Buka Aplikasi Browser**: Buka browser dan jalankan filenya`
-4. 
+
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-Jangan ragu untuk mengirimkan saran atau pertanyaan ke alamat email kami: mshidiq011@gmail.com
+Jangan ragu untuk mengirimkan saran atau pertanyaan ke alamat email saya: mshidiq011@gmail.com
