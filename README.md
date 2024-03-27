@@ -16,10 +16,6 @@ Cek Disini ===> https://niagapet.netlify.app/
 
 - **HTML/CSS**: Bahasa pemrograman untuk membangun struktur dan tata letak halaman web.
 - **JavaScript**: Digunakan untuk interaksi pengguna seperti validasi formulir dan efek visual.
-- **React.js**: Sebagai library JavaScript untuk membangun antarmuka pengguna yang responsif dan dinamis.
-- **Node.js**: Runtime lingkungan JavaScript yang digunakan untuk menjalankan server.
-- **Express.js**: Framework Node.js yang digunakan untuk membangun backend aplikasi web.
-- **MongoDB**: Basis data NoSQL yang digunakan untuk menyimpan data pengguna, produk, dan pesanan.
 
 ## Cara Menjalankan Proyek
 
